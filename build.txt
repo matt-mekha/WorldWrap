@@ -1,0 +1,3 @@
+displayName = World Wrap
+author = mmftl
+version = 0.1

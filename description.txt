@@ -1,0 +1,1 @@
+World Wrap allows simple circumnavigation in Terraria! When you go to one of the left or right edges in the world, you'll end up on the other side.
